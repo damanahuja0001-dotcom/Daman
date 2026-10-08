@@ -1,0 +1,11 @@
+{
+  "name": "a3-daman-ahuja",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

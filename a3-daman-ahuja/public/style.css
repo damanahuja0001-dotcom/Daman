@@ -1,0 +1,14 @@
+html {
+    font-family: sans-serif;
+    line-height: 1.7;
+}
+
+body {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    color: mediumseagreen;
+    font-size: 4rem;
+}
